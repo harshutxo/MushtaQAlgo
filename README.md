@@ -1,7 +1,9 @@
 # MushtaQAlgo
+"""
 A completely randomized and recursive search algo [ACRRA]
 import random
 
+"""
 def optimized_random_search():
     """
     Optimized randomized search algorithm with memoization and limited attempts.
